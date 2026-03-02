@@ -101,4 +101,4 @@ Steering vectors (referred to in the code as "Soul" or "Hormones") are derived u
 
 > **Note:** The engine automatically handles chat formatting using the model's native `chat_template` if it detects a standard prompt.
 
-Would you like me to **create a Python client script** to help you interact with these endpoints automatically?
+
