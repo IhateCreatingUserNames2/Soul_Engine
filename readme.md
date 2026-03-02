@@ -1,6 +1,6 @@
 # Aura Soul Engine Documentation
 
-The **Aura Soul Engine** is a high-performance FastAPI wrapper designed for Large Language Models (LLMs) like **Qwen3-8B**. It specializes in **Steering Vectors**, allowing you to dynamically influence model behavior (concepts or "hormones") without fine-tuning. This specific version is ultra-optimized for the **NVIDIA RTX 3090 (24GB VRAM)**.
+The **Aura Soul Engine** is a FastAPI wrapper designed for Large Language Models (LLMs) like **Qwen3-8B**. It specializes in **Steering Vectors**, allowing you to dynamically influence model behavior (concepts or "hormones") without fine-tuning. This specific version is ultra-optimized for the **NVIDIA RTX 3090 (24GB VRAM)**.
 
 ---
 
